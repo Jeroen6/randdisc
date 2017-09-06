@@ -1,10 +1,11 @@
 # RandDisc
 Randomize a playlist to a collection of folders.
 
-Ideal tool when dealing with virtual disc changers that use an USB drive with CD## folders.
+Ideal tool when dealing with virtual disc changers that use an USB drive with CD## folders.  
 Such as Yatour units.
 
-An example says more than words:
+An example says more than words:  
+```
 +-- source
 |   +-- Galantis - Runaway (U & I).mp3
 |   +-- Meghan Trainor - Lips Are Movin.mp3
@@ -29,3 +30,4 @@ An example says more than words:
 |   |   +-- 01 - Ariana Grande ft. The Weeknd - Love me harder.mp3
 |   |   +-- 02 - Sam Smith - I'm not the only one.mp3
 |   |   +-- 03 - Meghan Trainor - Lips Are Movin.mp3
+```
